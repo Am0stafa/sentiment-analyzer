@@ -9,7 +9,7 @@ The app takes in user input text and analyzes the sentiment as either positive, 
 The app is built using Streamlit for the UI and Langchain for chaining the prompt to the Replicate API.
 
 Preview:
-[sentiment_analyser_shot](https://github.com/InsightEdge01/TextClassificationllama2/assets/131486782/6d73a8d2-6648-45c7-b9af-d779c1d190ad)
+[sentiment_analyser_shot](https://github-production-user-asset-6210df.s3.amazonaws.com/131486782/265725391-6d73a8d2-6648-45c7-b9af-d779c1d190ad.jpg)
 
 ## Setup
 
